@@ -1,1 +1,7 @@
-{}
+{
+  "name": "bosca-lesson",
+  "permissions": {
+    "client": true,
+    "server": false
+  }
+}
