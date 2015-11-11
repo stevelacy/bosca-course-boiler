@@ -1,5 +1,6 @@
 {
   "name": "bosca-lesson",
+  "description": "example bosca course boiler",
   "permissions": {
     "client": true,
     "server": false
